@@ -19,7 +19,7 @@ This app allows users to browse restaurants, view menu items, and add/remove ite
 - **React** — Frontend framework
 - **React Router DOM** — Navigation and routing
 - **Redux / Redux Toolkit** — State management
-- **CSS / Tailwind / Styled Components** *(choose whichever you used)*
+- **CSS / Tailwind / Styled Components**
 - **JavaScript (ES6+)**
 
 ---
